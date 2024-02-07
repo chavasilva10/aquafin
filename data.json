@@ -1,0 +1,343 @@
+{
+  "2023": {
+    "Week 1 (01/02 - 01/08)": {
+      "Won": 21,
+      "ShowedNoSignUp": 3,
+      "NoShow": 2,
+      "Total": 26
+    },
+    "Week 2 (01/09 - 01/15)": {
+      "Won": 56,
+      "ShowedNoSignUp": 11,
+      "NoShow": 1,
+      "Total": 68
+    },
+    "Week 3 (01/09 - 01/15)": {
+      "Won": 67,
+      "ShowedNoSignUp": 12,
+      "NoShow": 3,
+      "Total": 82
+    },
+    "Week 4 (01/09 - 01/15)": {
+      "Won": 89,
+      "ShowedNoSignUp": 9,
+      "NoShow": 8,
+      "Total": 106
+    },
+    "Week 5 (01/09 - 01/15)": {
+      "Won": 75,
+      "ShowedNoSignUp": 16,
+      "NoShow": 10,
+      "Total": 101
+    },
+    "Week 6 (02/06 - 02/12)": {
+      "Won": 84,
+      "ShowedNoSignUp": 18,
+      "NoShow": 8,
+      "Total": 110
+    },
+    "Week 7 (02/13 - 02/19)": {
+      "Won": 86,
+      "ShowedNoSignUp": 24,
+      "NoShow": 14,
+      "Total": 124
+    },
+    "Week 8 (02/20 - 02/26)": {
+      "Won": 71,
+      "ShowedNoSignUp": 20,
+      "NoShow": 11,
+      "Total": 102
+    },
+    "Week 9 (02/27 - 03/05)": {
+      "Won": 72,
+      "ShowedNoSignUp": 16,
+      "NoShow": 8,
+      "Total": 96
+    },
+    "Week 10 (03/06 - 03/12)": {
+      "Won": 94,
+      "ShowedNoSignUp": 22,
+      "NoShow": 17,
+      "Total": 133
+    },
+    "Week 11 (03/13 - 03/19)": {
+      "Won": 73,
+      "ShowedNoSignUp": 15,
+      "NoShow": 8,
+      "Total": 96
+    },
+    "Week 12 (03/20 - 03/26)": {
+      "Won": 63,
+      "ShowedNoSignUp": 36,
+      "NoShow": 12,
+      "Total": 111
+    },
+    "Week 13 (03/27 - 04/02)": {
+      "Won": 76,
+      "ShowedNoSignUp": 18,
+      "NoShow": 8,
+      "Total": 102
+    },
+    "Week 14 (04/03 - 04/09)": {
+      "Won": 69,
+      "ShowedNoSignUp": 16,
+      "NoShow": 3,
+      "Total": 88
+    },
+    "Week 15 (04/10 - 04/16)": {
+      "Won": 87,
+      "ShowedNoSignUp": 27,
+      "NoShow": 9,
+      "Total": 123
+    },
+    "Week 16 (04/17 - 04/23)": {
+      "Won": 96,
+      "ShowedNoSignUp": 31,
+      "NoShow": 20,
+      "Total": 147
+    },
+    "Week 17 (04/24 - 04/30)": {
+      "Won": 50,
+      "ShowedNoSignUp": 12,
+      "NoShow": 3,
+      "Total": 65
+    },
+    "Week 18 (05/01 - 05/07)": {
+      "Won": 76,
+      "ShowedNoSignUp": 24,
+      "NoShow": 8,
+      "Total": 108
+    },
+    "Week 19 (05/08 - 05/14)": {
+      "Won": 92,
+      "ShowedNoSignUp": 23,
+      "NoShow": 7,
+      "Total": 122
+    },
+    "Week 20 (05/15 - 05/21)": {
+      "Won": 58,
+      "ShowedNoSignUp": 28,
+      "NoShow": 8,
+      "Total": 94
+    },
+    "Week 21 (05/22 - 05/28)": {
+      "Won": 103,
+      "ShowedNoSignUp": 15,
+      "NoShow": 25,
+      "Total": 143
+    },
+    "Week 22 (05/29 - 06/04)": {
+      "Won": 96,
+      "ShowedNoSignUp": 24,
+      "NoShow": 16,
+      "Total": 136
+    },
+    "Week 23 (06/05 - 06/11)": {
+      "Won": 180,
+      "ShowedNoSignUp": 57,
+      "NoShow": 50,
+      "Total": 287
+    },
+    "Week 24 (06/12 - 06/18)": {
+      "Won": 151,
+      "ShowedNoSignUp": 43,
+      "NoShow": 29,
+      "Total": 223
+    },
+    "Week 25 (06/19 - 06/25)": {
+      "Won": 157,
+      "ShowedNoSignUp": 30,
+      "NoShow": 18,
+      "Total": 205
+    },
+    "Week 26 (06/26 - 07/02)": {
+      "Won": 117,
+      "ShowedNoSignUp": 48,
+      "NoShow": 15,
+      "Total": 180
+    },
+    "Week 27 (07/03 - 07/09)": {
+      "Won": 71,
+      "ShowedNoSignUp": 20,
+      "NoShow": 16,
+      "Total": 107
+    },
+    "Week 28 (07/10 - 07/16)": {
+      "Won": 79,
+      "ShowedNoSignUp": 20,
+      "NoShow": 18,
+      "Total": 117
+    },
+    "Week 29 (07/17 - 07/23)": {
+      "Won": 89,
+      "ShowedNoSignUp": 20,
+      "NoShow": 13,
+      "Total": 122
+    },
+    "Week 30 (07/24 - 07/30)": {
+      "Won": 30,
+      "ShowedNoSignUp": 5,
+      "NoShow": 3,
+      "Total": 38
+    },
+    "Week 31 (07/31 - 08/06)": {
+      "Won": 68,
+      "ShowedNoSignUp": 19,
+      "NoShow": 10,
+      "Total": 97
+    },
+    "Week 32 (08/07 - 08/13)": {
+      "Won": 65,
+      "ShowedNoSignUp": 32,
+      "NoShow": 6,
+      "Total": 103
+    },
+    "Week 33 (08/14 - 08/20)": {
+      "Won": 60,
+      "ShowedNoSignUp": 16,
+      "NoShow": 9,
+      "Total": 85
+    },
+    "Week 34 (08/21 - 08/27)": {
+      "Won": 73,
+      "ShowedNoSignUp": 15,
+      "NoShow": 12,
+      "Total": 100
+    },
+    "Week 35 (08/28 - 09/03)": {
+      "Won": 29,
+      "ShowedNoSignUp": 6,
+      "NoShow": 5,
+      "Total": 40
+    },
+    "Week 36 (09/04 - 09/10)": {
+      "Won": 46,
+      "ShowedNoSignUp": 6,
+      "NoShow": 6,
+      "Total": 58
+    },
+    "Week 37 (09/11 - 09/17)": {
+      "Won": 40,
+      "ShowedNoSignUp": 6,
+      "NoShow": 6,
+      "Total": 52
+    },
+    "Week 38 (09/18 - 09/24)": {
+      "Won": 43,
+      "ShowedNoSignUp": 8,
+      "NoShow": 6,
+      "Total": 57
+    },
+    "Week 39 (09/25 - 10/01)": {
+      "Won": 15,
+      "ShowedNoSignUp": 5,
+      "NoShow": 3,
+      "Total": 23
+    },
+    "Week 40 (10/02 - 10/08)": {
+      "Won": 31,
+      "ShowedNoSignUp": 11,
+      "NoShow": 6,
+      "Total": 48
+    },
+    "Week 41 (10/09 - 10/15)": {
+      "Won": 31,
+      "ShowedNoSignUp": 11,
+      "NoShow": 2,
+      "Total": 44
+    },
+    "Week 42 (10/15 - 10/22)": {
+      "Won": 24,
+      "ShowedNoSignUp": 18,
+      "NoShow": 6,
+      "Total": 48
+    },
+    "Week 43 (10/23 - 10/29)": {
+      "Won": 13,
+      "ShowedNoSignUp": 3,
+      "NoShow": 2,
+      "Total": 18
+    },
+    "Week 44 (10/30 - 11/05)": {
+      "Won": 28,
+      "ShowedNoSignUp": 5,
+      "NoShow": 4,
+      "Total": 37
+    },
+    "Week 45 (11/06 - 11/12)": {
+      "Won": 31,
+      "ShowedNoSignUp": 8,
+      "NoShow": 10,
+      "Total": 49
+    },
+    "Week 46 (11/13 - 11/19)": {
+      "Won": 20,
+      "ShowedNoSignUp": 3,
+      "NoShow": 6,
+      "Total": 29
+    },
+    "Week 47 (11/20 - 11/26)": {
+      "Won": 0,
+      "ShowedNoSignUp": 1,
+      "NoShow": 0,
+      "Total": 1
+    },
+    "Week 48 (11/27 - 12/03)": {
+      "Won": 5,
+      "ShowedNoSignUp": 2,
+      "NoShow": 2,
+      "Total": 9
+    },
+    "Week 49 (12/04 - 12/10)": {
+      "Won": 26,
+      "ShowedNoSignUp": 4,
+      "NoShow": 5,
+      "Total": 35
+    },
+    "Week 50 (12/11 - 12/17)": {
+      "Won": 17,
+      "ShowedNoSignUp": 4,
+      "NoShow": 0,
+      "Total": 21
+    },
+    "Week 51 (12/18 - 12/24)": {
+      "Won": 4,
+      "ShowedNoSignUp": 0,
+      "NoShow": 0,
+      "Total": 4
+    },
+    "Week 52 (12/25 - 12/31)": {
+      "Won": 0,
+      "ShowedNoSignUp": 0,
+      "NoShow": 0,
+      "Total": 0
+    }
+    
+  },
+  "2024": {
+    "Week 1 (01/01 - 01/07)": {
+      "Won": 33,
+      "ShowedNoSignUp": 11,
+      "NoShow": 2,
+      "Total": 46
+    },
+    "Week 2 (01/08 - 01/14)": {
+      "Won": 37,
+      "ShowedNoSignUp": 11,
+      "NoShow": 1,
+      "Total": 46
+    },
+    "Week 3 (01/15 - 01/21)": {
+      "Won": 63,
+      "ShowedNoSignUp": 8,
+      "NoShow": 5,
+      "Total": 76
+    },
+    "Week 4 (01/22 - 01/28)": {
+      "Won": 62,
+      "ShowedNoSignUp": 16,
+      "NoShow": 18,
+      "Total": 96
+    }
+  }
+}
